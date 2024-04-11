@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/bb0b8031-41f7-4555-a559-5035c9c6ed42/resourceGroups/3pdriver2/providers/Microsoft.Web/sites/3pdriver",
+    "appService.deploySubpath": "."
+}
